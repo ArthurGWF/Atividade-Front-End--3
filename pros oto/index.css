@@ -1,0 +1,93 @@
+body{
+    background-color: silver;
+    width: 80em;
+}
+
+
+#imagens{
+    align-items: center;
+}
+#quadrado{
+    position: absolute;
+    margin: 20px;
+    width: 115em;
+    height: 135em;
+    background-color: white;
+   
+}
+
+#zap{
+    position: absolute;
+    display: block;
+    top: 30em;
+    left: 25em;
+    border-radius: 2px;
+}
+
+#sofa{
+    position: absolute;
+    top: 30em;
+    left: 50em;
+}
+
+#disco{
+    position: absolute;
+    top: 50em;
+    left: 50em;
+}
+
+#papel{
+    position: absolute;
+    top: 30em;
+    left: 75em;
+}
+
+#convite{
+    position: absolute;
+    top: 66em;
+    left: 24.8em;
+}
+
+#livro{
+    position: absolute;
+    top: 83em;
+    left: 24.8em;
+}
+
+#hamburguer{
+    position: absolute;
+    top: 85em;
+    left: 50em;
+}
+
+
+#nada{
+    position: absolute;
+    top: 85em;
+    left: 75em;
+}
+
+#creme{
+    position: relative;
+    top: 100em;
+    left: 24.5em;
+}
+
+#erre{
+    position: absolute;
+    top: 10em;
+    left: 60em;
+}
+
+p{
+    position: absolute;
+    top: 10em;
+    left: 32em;
+    font-size: 25px;
+}
+
+#seta{
+    position: absolute;
+    top: 120em;
+    left: 58em;
+}
